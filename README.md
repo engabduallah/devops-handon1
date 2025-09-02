@@ -49,3 +49,6 @@ Handler: io.micronaut.function.aws.proxy.payload1.ApiGatewayProxyRequestEventFun
 - [https://docs.aws.amazon.com/apigateway/](https://docs.aws.amazon.com/apigateway/)
 
 
+
+
+<!-- Security scan triggered at 2025-09-02 15:13:51 -->
